@@ -1,0 +1,6 @@
+.venv
+.env
+*.ipynb
+test.py
+*.json
+*.html

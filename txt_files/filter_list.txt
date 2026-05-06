@@ -1,0 +1,120 @@
+Javascript
+Python
+Java
+C#
+C++
+TypeScript
+PHP
+Kotlin
+SQL
+IntelliJ
+PyCharm
+WebStorm
+GoLand
+CLion
+RubyMine
+Rider
+PhpStorm
+DataGrip
+Fleet
+VS Code
+Visual Studio Code
+Cursor
+Zed
+Xcode
+Android Studio
+Atom
+BBEdit
+Eclipse
+Sublime
+TextMate
+Emacs
+MacVim
+Docker
+DockerHelper
+OrbStack
+Colima
+Rancher
+Podman
+VMware
+VirtualBox
+Postman
+Insomnia
+Charles Proxy
+Proxyman
+DBeaver
+TablepPlus
+Azure Data Studio
+MySQL
+Sequel Ace
+Sequel ProxyStudio 3T
+Navicat
+pgAdmin
+Redis Insight
+iTerm2
+Warp
+Alacritty
+Kitty
+GitHub
+GitLab
+Sourcetree
+GitKraken
+Tower
+Fork
+Termius
+Kubernetes
+npm
+Yarn
+pnpm
+Maven
+Gradle
+pip
+Conda
+React
+Next.js
+Vue.js
+Angular
+Express.js
+Django
+Spring
+Springboot
+FastAPI
+ASP.NET
+Pentest
+SCA
+SAST
+DAST
+IAC
+Secret Scan
+LiteLLM
+Malware
+Application Security
+Appsec
+Secure Coding
+Code Vulnerability
+Software Vulnerability
+Insecure Deserialization
+Injection 
+Cross-Site Scripting
+XSS
+Cross-Site Request Forgery
+CSRF
+Remote Code Execution
+RCE
+Authentication Bypass
+Authorization Flaw
+Privilege Escalation
+Input Validation
+Output Encoding
+SAST 
+DAST
+IAST
+Software Composition Analysis
+SCA
+Dependency Vulnerability
+Open Source Vulnerability
+Supply Chain Attack
+CI/CD Security
+DevSecOps
+Code Scanning
+Security Testing

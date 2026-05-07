@@ -41,7 +41,7 @@ It is designed to support Application Security (AppSec) teams by surfacing relev
 
 ## Architecture
 
-![Tech Architecture Diagram]([https://imgur.com/ZOC8FbN](https://imgur.com/ZOC8FbN))
+![Tech Architecture Diagram](https://imgur.com/a/4QPra3Y)
 
 ## Use Cases
 

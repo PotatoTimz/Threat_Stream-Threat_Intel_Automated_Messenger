@@ -8,7 +8,7 @@ ThreatStream Automater is a threat intelligence aggregation and automation tool 
 
 This project automates the process of collecting, filtering, and distributing threat intelligence to reduce manual monitoring effort and improve visibility into emerging vulnerabilities and threats.
 
-It is designed to support Application Security (AppSec) and Security Operations (SOC) teams by surfacing relevant intelligence such as CVEs, exploits, and indicators of compromise (IOCs).
+It is designed to support Application Security (AppSec) teams by surfacing relevant intelligence such as CVEs, exploits, and indicators of compromise (IOCs).
 
 ## Features
 
@@ -41,6 +41,7 @@ It is designed to support Application Security (AppSec) and Security Operations 
 
 ## Architecture
 
+![Tech Architecture Diagram](https://imgur.com/ZOC8FbN)
 
 ## Use Cases
 
